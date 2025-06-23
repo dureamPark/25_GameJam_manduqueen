@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj": {}
+    "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1272,14 +1272,14 @@
         }
       }
     },
-    "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj": {
+    "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
         "projectName": "Manduqueen_25ModuleRules",
-        "projectPath": "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
+        "projectPath": "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

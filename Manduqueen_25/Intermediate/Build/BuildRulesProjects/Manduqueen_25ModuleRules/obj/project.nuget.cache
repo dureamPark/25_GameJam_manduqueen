@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rd0b/dcwiYQ=",
+  "dgSpecHash": "SBAkqLmz6mE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\Develop\\25_GameJam_manduqueen\\Manduqueen_25\\Intermediate\\Build\\BuildRulesProjects\\Manduqueen_25ModuleRules\\Manduqueen_25ModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
