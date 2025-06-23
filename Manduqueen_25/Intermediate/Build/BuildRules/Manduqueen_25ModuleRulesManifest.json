@@ -1,8 +1,12 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25\\Manduqueen_25.Build.cs",
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25.Target.cs",
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25Editor.Target.cs"
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25\\Manduqueen_25.Build.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25.Target.cs",
+		"D:\\unity\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25Editor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

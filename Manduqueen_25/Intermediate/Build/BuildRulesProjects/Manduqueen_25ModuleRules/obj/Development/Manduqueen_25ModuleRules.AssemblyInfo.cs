@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manduqueen_25ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d347ad67fa7a304f4a673046608af35a3c601a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62831291fc4eec2e6b85cac258bc41ba2d114ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manduqueen_25ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manduqueen_25ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

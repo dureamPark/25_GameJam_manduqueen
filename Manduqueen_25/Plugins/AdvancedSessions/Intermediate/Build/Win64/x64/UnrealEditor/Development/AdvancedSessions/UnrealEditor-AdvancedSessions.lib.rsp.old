@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Intermediate\Build\Win64\x64\Manduqueen_25Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1.cpp.obj"
+"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2.cpp.obj"
+"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"D:\unity\25_GameJam_manduqueen\Manduqueen_25\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"

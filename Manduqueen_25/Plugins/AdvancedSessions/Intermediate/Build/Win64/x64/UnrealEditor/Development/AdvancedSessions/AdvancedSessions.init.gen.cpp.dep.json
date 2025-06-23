@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unity\\25_gamejam_manduqueen\\manduqueen_25\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unity\\25_gamejam_manduqueen\\manduqueen_25\\intermediate\\build\\win64\\x64\\manduqueen_25editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unity\\25_gamejam_manduqueen\\manduqueen_25\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
