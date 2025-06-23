@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\develop\\unreal_project\\25_gamejam_manduqueen\\manduqueen_25\\source\\manduqueen_25\\manduqueen_25.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\develop\\unreal_project\\25_gamejam_manduqueen\\manduqueen_25\\intermediate\\build\\win64\\x64\\manduqueen_25editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\develop\\unreal_project\\25_gamejam_manduqueen\\manduqueen_25\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\manduqueen_25\\definitions.manduqueen_25.h",
+            "c:\\users\\develop\\unreal_project\\25_gamejam_manduqueen\\manduqueen_25\\source\\manduqueen_25\\manduqueen_25.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
