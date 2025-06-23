@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25\\Manduqueen_25.Build.cs",
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25.Target.cs",
-		"C:\\Users\\Develop\\Unreal_Project\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25Editor.Target.cs"
+		"C:\\Users\\user\\Documents\\GitHub\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25\\Manduqueen_25.Build.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\25_GameJam_manduqueen\\Manduqueen_25\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25.Target.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\25_GameJam_manduqueen\\Manduqueen_25\\Source\\Manduqueen_25Editor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
