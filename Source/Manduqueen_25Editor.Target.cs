@@ -7,7 +7,9 @@ public class Manduqueen_25EditorTarget : TargetRules
 {
 	public Manduqueen_25EditorTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Editor;
+        bUsesSteam = true;
+
+        Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
 		ExtraModuleNames.Add("Manduqueen_25");
